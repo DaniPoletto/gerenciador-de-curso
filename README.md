@@ -12,3 +12,15 @@ Na pasta do projeto, abra o terminal e digite o comando para instalar as depend�
 ```
 composer install
 ```
+
+Suba um servidor teste com o comando:
+```
+php -S localhost:8080 -t public
+```
+
+Somente a pasta public ficará acessível. 
+
+E acesse pelo link 
+```
+http://localhost:8080/listar-cursos.php
+```
