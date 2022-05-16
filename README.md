@@ -22,5 +22,5 @@ Somente a pasta public ficará acessível.
 
 E acesse pelo link 
 ```
-http://localhost:8080/listar-cursos.php
+http://localhost:8080/listar-cursos
 ```
