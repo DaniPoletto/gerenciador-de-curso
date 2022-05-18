@@ -1,7 +1,8 @@
 <?php
 namespace Alura\Cursos\Controller;
 
-class ControllerComHtml 
+//não deixa a classe ser inicializada/instanciada
+abstract class ControllerComHtml 
 {
     public function renderizaHtml(string $caminhoTemplate, array $dados):string
     {
