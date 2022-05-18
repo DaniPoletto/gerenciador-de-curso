@@ -24,3 +24,9 @@ E acesse pelo link
 ```
 http://localhost:8080/listar-cursos
 ```
+
+Em caso de erro nas classes usando Doctrine
+```
+vendor\bin\doctrine orm:generate-proxies
+```
+
