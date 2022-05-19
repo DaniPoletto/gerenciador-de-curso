@@ -30,3 +30,8 @@ Em caso de erro nas classes usando Doctrine
 vendor\bin\doctrine orm:generate-proxies
 ```
 
+Para executar um sql no terminal usando Doctrine
+```doctrine dbal:run-sql "select * from usuarios);"
+
+```
+
