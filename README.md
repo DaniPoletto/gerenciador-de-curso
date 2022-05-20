@@ -32,6 +32,6 @@ vendor\bin\doctrine orm:generate-proxies
 
 Para executar um sql no terminal usando Doctrine
 ```
-doctrine dbal:run-sql "select * from usuarios);"
+vendor/bin/doctrine dbal:run-sql "select * from usuarios;"
 ```
 
