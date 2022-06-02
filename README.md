@@ -2,9 +2,11 @@
 
 Projeto Desenvolvido durante curso de MVC da Alura.
 
+![Alt Text](https://github.com/DaniPoletto/gerenciador-de-curso/blob/master/demo.gif)
+
 ### Requisitos
 
-Instale o [composer](https://getcomposer.org/). 
+Instalação do [composer](https://getcomposer.org/). 
 
 ### Inicialização
 Na pasta do projeto, abra o terminal e digite o comando para instalar as dependências:
