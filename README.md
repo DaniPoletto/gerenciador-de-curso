@@ -27,11 +27,13 @@ E acesse pelo link
 http://localhost:8080/listar-cursos
 ```
 
+### Erros
 Em caso de erro nas classes usando Doctrine
 ```
 vendor\bin\doctrine orm:generate-proxies
 ```
 
+### Outras instruções
 Para executar um sql no terminal usando Doctrine
 ```
 vendor/bin/doctrine dbal:run-sql "select * from usuarios;"
